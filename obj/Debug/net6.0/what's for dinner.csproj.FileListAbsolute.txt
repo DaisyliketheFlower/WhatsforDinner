@@ -1,0 +1,15 @@
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.csproj.AssemblyReference.cache
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.AssemblyInfoInputs.cache
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.AssemblyInfo.cs
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.csproj.CoreCompileInputs.cache
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/bin/Debug/net6.0/what's for dinner
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/bin/Debug/net6.0/what's for dinner.deps.json
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/bin/Debug/net6.0/what's for dinner.runtimeconfig.json
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/bin/Debug/net6.0/what's for dinner.dll
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/bin/Debug/net6.0/what's for dinner.pdb
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.dll
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/refint/what's for dinner.dll
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.pdb
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/what's for dinner.genruntimeconfig.cache
+/Users/daisyomoikirodah/Projects/what's for dinner/what's for dinner/obj/Debug/net6.0/ref/what's for dinner.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "what's for dinner/1.0.0": {
+        "runtime": {
+          "what's for dinner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "what's for dinner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
